@@ -50,5 +50,3 @@ PRODUCT_COPY_FILES += \
 	$(VENDOR_FOLDER)/proprietary/vendor/lib/libnvwsi.so:system/vendor/lib/libnvwsi.so \
 	$(VENDOR_FOLDER)/proprietary/vendor/lib/libstagefrighthw.so:system/vendor/lib/libstagefrighthw.so \
 	$(VENDOR_FOLDER)/proprietary/vendor/lib/libtf_crypto_sst.so:system/vendor/lib/libtf_crypto_sst.so \
-
-PRODUCT_PACKAGES += keystore.grouper
