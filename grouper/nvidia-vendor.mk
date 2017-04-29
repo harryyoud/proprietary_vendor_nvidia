@@ -1,1 +1,1 @@
-$(call inherit-product, vendor/nvidia/tegra3/nvidia-vendor-blobs.mk)
+$(call inherit-product, vendor/nvidia/grouper/nvidia-vendor-blobs.mk)

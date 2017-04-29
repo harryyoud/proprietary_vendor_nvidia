@@ -1,4 +1,4 @@
-VENDOR_FOLDER := vendor/nvidia/tegra3
+VENDOR_FOLDER := vendor/nvidia/grouper
 
 PRODUCT_COPY_FILES += \
 	$(VENDOR_FOLDER)/proprietary/vendor/firmware/nvavp_os_00001000.bin:system/vendor/firmware/nvavp_os_00001000.bin \
